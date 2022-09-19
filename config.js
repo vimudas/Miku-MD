@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['+1 (209) 442-1867']
-global.OwnerNumber = ['+1 (209) 442-1867']
-global.ownertag = ['+1 (209) 442-1867']
+global.Owner = ['+1 (626) 803-4156']
+global.OwnerNumber = ['+1 (626) 803-4156']
+global.ownertag = ['+1 (626) 803-4156']
 global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: vimu"
